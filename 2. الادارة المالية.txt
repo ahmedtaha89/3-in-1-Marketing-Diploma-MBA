@@ -1,4 +1,4 @@
-# 1. مقدمة
+4:12 PM 6/20/2024# 1. مقدمة
 1- What Are the 4 Ps of Marketing?
 - Product (المنتج/الخدمة)
 - Price (السعر)
@@ -46,6 +46,36 @@
 قيمة الأصل الثابت تقل مع الوقت
 
 8- Break Even: الخسارة = المكسب
+
+**  Income Statement (قائمة الدخل) 
+1- Revenue الإيرادات
+2- Cost Of Goods Sold (COGS) تكلفة البضائع المباعة
+3- Gross Profit (GP) صافي الربح
+4- Expenses المصروفات
+5- Net Income صافي الدخل
+
+
+
+Revenue    = 2000000
+COGS     = 150000
+----------------------------------
+GP 	 = Revenue - COGS = 50000
+Expenses = 20000
+----------------------------------
+Net Income = 30000
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
