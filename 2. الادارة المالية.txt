@@ -1,6 +1,6 @@
 4:12 PM 6/20/2024# 1. مقدمة
 1- What Are the 4 Ps of Marketing?
-- Product (المنتج/الخدمة)
+-  Product (المنتج/الخدمة)
 -  Price (السعر)
 -  Place (المكان)
 -  Promotion (الترويج)
@@ -66,5 +66,23 @@ Net Income = 30000
 ** Liabilities الالتزامات
 - القروض
 - الموردين 
+
  8. مهام المدير المالي–التحليلات الربحية العائد على الاستثمار–هامش صافي الأرباح ج1
+Profitability Ratio تحليلات الربحية
+1-ROI (Return Of Investment) عائد علي الاستثمار
+Profit = 140000
+Equity = 2000000
+ROI = 140000/2000000 = 7%
+
+**عوامل مؤثرة علي التحليل المالي 
+1) Risk Free => احط فلوسي في البنك و اضمن ان الفلوس هتكسب نسبة معينه من غير مخاطر
+2) Age عمر الشركة
+
+2-Net Profit Margin نسبة صافي الربح
+Net Profit Margin = Net Income/Revenue = 140000/7000000 = 2%
+
+
+
+
+
 
